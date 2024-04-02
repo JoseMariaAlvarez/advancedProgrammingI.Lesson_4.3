@@ -1,5 +1,7 @@
 package printerWriter;
-import java.io.*;
+
+import java.io.IOException;
+import java.io.PrintWriter;
 
 public class PrinterWriterTry {
 	public static void main(String[] args) throws IOException {
